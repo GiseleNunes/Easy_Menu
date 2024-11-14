@@ -1,3 +1,3 @@
 # Easy_Menu
 
-O projeto é um aplicativo de entrega de comida. Nesse aplicativo, existirão várias funcionalidades, como: cadastro de restaurante e comidas,serviço de entrega, avaliação.
+The project is a food delivery application. In this application, there will be several functionalities, such as: restaurant and food registration, delivery service, evaluation.
